@@ -11,4 +11,6 @@ The Horiseon Solutions webpage has been updated and optimized to fit accessibili
 ## Preview
 ![Image](/images/horiseon-pic-1.jpeg)
 
+![Image](/images/horiseon-pic-2.png)
+
 
