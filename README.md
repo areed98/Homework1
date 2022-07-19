@@ -6,7 +6,7 @@ The Horiseon Solutions webpage has been updated and optimized to fit accessibili
 
 ## The Webpage
 
-[Horiseon Social Solution Services](https://areed98.github.io/Horiseon-Solutions/)
+<a href="https://areed98.github.io/Horiseon-Solutions/" target="_blank">Horiseon Social Solution Services</a>
 
 ## Preview
 ![Image](/images/horiseon-pic-1.jpeg)
